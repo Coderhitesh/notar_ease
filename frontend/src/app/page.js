@@ -184,7 +184,7 @@ export default function Home() {
         <div className="container mx-auto px-6 text-center">
           <h2 className="text-2xl md:text-3xl font-bold mb-8">Ready to Notarize Your Document Online?</h2>
           <p className="text-xl mb-12 opacity-90">Join 10,000+ satisfied users • Available 24×7 • Instant slots</p>
-          <button className="px-12 py-6 bg-white text-indigo-600 font-bold text-xl rounded-full hover:scale-110 transition shadow-2xl transform">
+          <button className="px-10 py-3 bg-white text-indigo-600 font-bold text-xl rounded-full hover:scale-110 transition shadow-2xl transform">
             Book Your Slot Now <ArrowRight className="inline ml-3" />
           </button>
         </div>
